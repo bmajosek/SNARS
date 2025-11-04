@@ -27,3 +27,5 @@ for name, G in graphs:
     nx.draw(G, with_labels=False, node_size=100, node_color='skyblue')
     plt.title(f"{name}")
     plt.show()
+    
+    # dodac pdopsiy
